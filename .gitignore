@@ -1,0 +1,5 @@
+# baranem/sa
+*.o
+
+# Ada Library Information
+*.ali
